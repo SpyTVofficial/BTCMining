@@ -1,0 +1,7 @@
+name: Test
+version: 1.0
+main: me.Spy.Main.Main
+author: Spy
+commands:
+  givehead:
+  
